@@ -1,7 +1,7 @@
-# Proyecto de Página Web de Avatares
+# Paginita de Avatares Tanys
 
 ## Descripción
-Este proyecto es una pequeña página web que presenta una vista de avatares (Tanys) como un minijuego. La página está organizada en varias carpetas para archivos HTML, CSS, JavaScript e imágenes.
+Este proyecto es una pequeña página web que presenta una vista de avatares (Tanys) como un minijuego.
 
 ## Estructura del Proyecto
 - **html/**: Contiene los archivos HTML.
